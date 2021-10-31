@@ -20,7 +20,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="C#" width="26px" src="https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png.webp" />
+<img align="left" alt="C#" width="26px" src="https://www.myti.it/wp-content/uploads/2019/02/csharpnew-750x380.jpg" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="Python" width="26px" src="https://www.geekandjob.com/uploads/wiki/64f36195573eec62511adc821d374ceb3619b37f.png" />
 
