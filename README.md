@@ -7,8 +7,6 @@
 - 🥅 2021 Goals: Learn C# and improve Python
 - ⚡ Fun fact: I play guitar and midi, and I like to create Discord's bots.
 
-##
-
 ### Connect with me:
 
 <img align="left" alt="Discord" width="22px" src="https://play-lh.googleusercontent.com/xQ-meXSBylIU8VKA7yUQXDwRu99JX8ic7mAsM4sBidjRgtMyhBDmYD4CpATqrdc1SA" /> Karl Koch#3392
