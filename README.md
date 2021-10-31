@@ -29,11 +29,8 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
+![THETRIPOL's Github Stats](https://github-readme-stats.vercel.app/api?username=thetripol89&theme=radical&show_icons=true)
 
-  ![THETRIPOL's Github Stats](https://github-readme-stats.vercel.app/api?username=thetripol89&theme=radical&show_icons=true)
-
-</details>
 
 [website]: https://github.com/THETRIPOL89
