@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Discord" width="22px" src="https://play-lh.googleusercontent.com/xQ-meXSBylIU8VKA7yUQXDwRu99JX8ic7mAsM4sBidjRgtMyhBDmYD4CpATqrdc1SA" />] Karl Koch#3392
+<img align="left" alt="Discord" width="22px" src="https://play-lh.googleusercontent.com/xQ-meXSBylIU8VKA7yUQXDwRu99JX8ic7mAsM4sBidjRgtMyhBDmYD4CpATqrdc1SA" /> Karl Koch#3392
 
 <br />
 
