@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn C# and improve Python
 - ⚡ Fun fact: I play guitar and midi, and I like to create Discord's bots.
+
 ##
 
 ### Connect with me:
