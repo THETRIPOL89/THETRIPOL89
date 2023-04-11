@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Improve Js and Electron.js and create an AI with Python
+- 🥅 2023 Goals: Improve Js and Electron.js and create an AI with Python
 - ⚡ Fun fact: I play guitar and midi, and I like to create Discord's bots.
 
 ### Connect with me:
