@@ -1,15 +1,15 @@
 ### Hi there, I'm THETRIPOL89 - [here my page][website] 👋
 
-## I'm a Developer!
+## I'm (mainly) a Python Developer!
 
-- 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Improve Js and Electron.js and create an AI with Python
+- 🌱 I’m currently learning CyberSecurity
+- 👯 I’m looking to collaborate with other developers in both small and big projects
+- 🥅 2023 Goals: learn TensorFlow and create some side projects
 - ⚡ Fun fact: I play guitar and midi, and I like to create Discord's bots.
 
 ### Connect with me:
 
-<img align="left" alt="Discord" width="22px" src="https://play-lh.googleusercontent.com/xQ-meXSBylIU8VKA7yUQXDwRu99JX8ic7mAsM4sBidjRgtMyhBDmYD4CpATqrdc1SA" /> Karl Koch#3392
+<img align="left" alt="Discord" width="22px" src="https://play-lh.googleusercontent.com/xQ-meXSBylIU8VKA7yUQXDwRu99JX8ic7mAsM4sBidjRgtMyhBDmYD4CpATqrdc1SA" /> fenomenovero
 
 ### Languages and Tools I use:
 
